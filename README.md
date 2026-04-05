@@ -19,4 +19,3 @@ Welcome to my portfolio, where I showcase my featured projects
 ### 📫 Connect with Me
 * [**LinkedIn**](https://www.linkedin.com/in/bui-thanh-duy-560774371/)
 * **Email:** [btduy.for.work@gmail.com](mailto:btduy.for.work@gmail.com)
-* **Portfolio:** [Link to your personal site or blog]

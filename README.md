@@ -5,7 +5,7 @@
 Hello, I'm Duy. Data Scientist with expertise in building end-to-end Machine Learning models, advanced data analysis, and creating interactive visualizations to drive business impact.
 
 ### 📚 Featured Projects
-Welcome to my portfolio, where I showcase my featured projects
+Welcome to my portfolio, where I showcase my [featured projects](https://github.com/btduyforwork/Portfolio-Guide/blob/main/README.md)
 
 ### 🛠 Technical Toolbox
 | Category | Tools & Technologies |

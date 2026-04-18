@@ -12,9 +12,8 @@ Welcome to my portfolio, where I showcase my [featured projects](https://github.
 | :--- | :--- |
 | **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
 | **Machine Learning** | XGBoost, LightGBM, Random Forest, Decision Trees, GenAI APIs |
-| **Engineering** | Docker, Git/GitHub, Airflow, CI/CD Basics |
-| **Data Viz** | Tableau, Power BI, Plotly, Seaborn, Matplotlib |
-| **Cloud** | AWS (SageMaker, S3, EC2) |
+| **Engineering** | Git/GitHub |
+| **Data Viz** | Seaborn, Matplotlib |
 
 ### 📫 Connect with Me
 * [**LinkedIn**](https://www.linkedin.com/in/bui-thanh-duy-560774371/)

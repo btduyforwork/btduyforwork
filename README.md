@@ -2,10 +2,14 @@
 
 ![Banner](https://github.com/user-attachments/assets/809a3e16-8fa7-41cb-92b9-25a30eb8cc62)
 ### 🚀 About Me
-Hello, I'm Duy. Data Scientist with expertise in building end-to-end Machine Learning models, advanced data analysis, and creating interactive visualizations to drive business impact.
+Hello, I'm Duy. A junior **data sientist** and **machine learning engineer** with expertise in building end-to-end Machine Learning models, advanced data analysis, and creating interactive visualizations to drive business impact.
 
+### 📘 Educational Background
+- I hold a bachelor degree of **Computer Engineering** from **Ho Chi Minh City University of Technology**.
+- Currently, I am pursuing **Master of AI** degree in **RMIT University**.
+- Addition to technical skills, I am proficient in English both verbal and written skills with **academic IELTS - 7.0 overall**.
 ### 📚 Featured Projects
-Welcome to my portfolio, where I showcase my [featured projects](https://github.com/btduyforwork/Portfolio-Guide/blob/main/README.md)
+Welcome to my project space, where I showcase my [featured projects](https://github.com/btduyforwork/Portfolio-Guide/blob/main/README.md)
 
 ### 🛠 Technical Toolbox
 | Category | Tools & Technologies |

@@ -17,7 +17,7 @@ Welcome to my project space, where I showcase my [featured projects](https://git
 | **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
 | **Machine Learning** | XGBoost, LightGBM, Random Forest, Decision Trees, GenAI APIs |
 | **Engineering** | Git/GitHub |
-| **Data Viz** | Seaborn, Matplotlib |
+| **Data Viz** | Seaborn, Matplotlib, Power BI |
 
 ### 📫 Connect with Me
 * [**LinkedIn**](https://www.linkedin.com/in/bui-thanh-duy-560774371/)
